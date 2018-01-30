@@ -1,3 +1,5 @@
 This is text file 2. 
 
-Edit 2: Something Else
+Edit 1: Something Else
+
+Edit 2: Branch1 Edit
